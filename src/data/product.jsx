@@ -4,7 +4,7 @@ const products = [
       name: 'Gaming Laptop',
       price: 1500,
       image: '/images/laptop-with-blank-black-screen-white-table_1_cropped.webp',
-      description: 'A comfortable cotton t-shirt.',
+      description: 'A high-performance Laptop.',
       categories: ['Laptops', 'Gaming'],
     },
     {
